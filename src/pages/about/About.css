@@ -26,7 +26,7 @@
     max-width: 800px; 
     margin: 0 auto; 
     line-height: 1.2;
-    font-weight: 500;
+    font-weight: 600;
   }
   
   .good p {
@@ -60,6 +60,7 @@
     border-radius: 4.5%;
     color: #fff;
   }
+
   .circle{
     background-color: white;
     height: 42px;
@@ -79,12 +80,24 @@
     position: absolute;
     margin-top: -7px;
   }
-  .circle3{
-    background-color: white;
+  .square img{
     height: 42px;
     width: 42px;
-    border-radius: 50%;
-    margin-left: 210px;
+    margin-left: 190px;
+    position: absolute;
+    margin-top: -2px;
+  }
+  .square2 img{
+    height: 42px;
+    width: 42px;
+    margin-left: 190px;
+    position: absolute;
+    margin-top: -2px;
+  }
+  .square3 img{
+    height: 42px;
+    width: 42px;
+    margin-left: 216px;
     position: absolute;
     margin-top: -7px;
   }
@@ -117,9 +130,17 @@
     font-size: 43px;
     margin-top: -12px;
   }
+  .square{
+    font-size: 22px;
+    font-weight: 500;
+  }
   .square2 h2{
     font-size: 43px;
     margin-top: -12px;
+  }
+  .square2 p{
+    font-size: 20px;
+    font-weight: 500;
   }
   .square3 h2{
     font-size: 37px;
@@ -128,6 +149,8 @@
   .square3 p{
     font-size: 22px;
     font-weight: 500;
+    margin-top: 48px;
   }
+ 
   
  
