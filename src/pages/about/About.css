@@ -5,7 +5,7 @@
   
   .first::before {
     content: '';
-    background: url('./assets/background.jpeg') no-repeat center center/cover;
+    background: url('../../assets/img/background.jpeg') no-repeat center center/cover;
     position: absolute;
     top: 0;
     left: 0;

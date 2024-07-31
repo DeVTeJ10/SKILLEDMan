@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.css';
-import check from './assets/check.png'
-import check2 from './assets/check2.png'
+import check2 from '../../assets/img/check2.png'
+import check from '../../assets/img/check.png'
 
 function App() {
   return (

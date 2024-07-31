@@ -1,7 +1,7 @@
 import React from 'react';
 import './Hero.css';
-import Point from './assets/Point.png';
-import log from './assets/log.png'
+import Point from '../../assets/img/Point.png'
+import log from '../../assets/img/log.png'
 
 const Hero = () => {
   return (
